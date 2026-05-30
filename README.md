@@ -465,7 +465,7 @@ To report a bug or request a feature, [open an issue](../../issues) and include:
 
 ### Samyak Kamble
 
-*Data Engineering Enthusiast*
+*Data Engineering Enthusiast - Machine Learning*
 
 <br/>
 
