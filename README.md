@@ -470,9 +470,9 @@ To report a bug or request a feature, [open an issue](../../issues) and include:
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-samyakGIT--cloud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samyakGIT-cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samyak-kamble)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samyakkamble.dev)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyak@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyak-kamble-972b10315/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samyakgit-cloud.github.io/samyak-portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyakkamble3016@gmail.com)
 
 <br/>
 
